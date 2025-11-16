@@ -1,3 +1,7 @@
+<img width="1552" height="1012" alt="image" src="https://github.com/user-attachments/assets/570b8423-3981-492b-a5a5-05319862dc97" />
+<img width="1552" height="1012" alt="image" src="https://github.com/user-attachments/assets/15be32e1-eb66-44d7-85f4-800d5f18598b" />
+<img width="1026" height="636" alt="image" src="https://github.com/user-attachments/assets/3da7105c-3f42-440a-93f0-1c56114bddaa" />
+
 ## 🚀 Project Setup & Usage
 **How to install and run:**  
 Create a .env file based on .env.example.
